@@ -25,7 +25,6 @@ func main() {
 			time.Sleep(1 * time.Second)
 		}
 	}()
-	// Nada aqui.
 	// Sair
 	time.Sleep(15 * time.Second)
 }
